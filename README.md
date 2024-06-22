@@ -8,3 +8,4 @@
 - Play your game in Roblox Studio and walk up to the board.
 - Click "Configuration" and select all the developer products you want displayed.
 - Apply the changes.
+- Before starting the game, first click on "Switch." in sounds Then, click on "Preview." If prompted, click on "Grant Permissions."
