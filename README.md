@@ -1,6 +1,7 @@
 # **Setup Instructions**
 - Download the [Source.rbxm](https://github.com/001Ario/Donation-Wall-ROBLOX-/blob/main/Source.rbxm) file.
 - Open Roblox Studio and insert the downloaded file.
+- Ungroup everything where it's supposed to go.
 - Create your developer products.
 - Enable Studio Access to API Services:
   - Follow the instructions [here](https://create.roblox.com/docs/studio/game-settings).
